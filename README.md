@@ -1,8 +1,3 @@
-Parfait Monsieur 👌 je vais te réécrire ton README en **format pro et attractif**, prêt à mettre sur GitHub. Ça donne direct une image sérieuse et propre de ton bot.
-
----
-
-````markdown
 # 🤖 Bot Discord JS — Modération & Utilitaires
 
 Un bot Discord simple et efficace, développé en **JavaScript** avec [discord.js](https://discord.js.org).  
@@ -81,5 +76,3 @@ Il fournit un ensemble de commandes de **modération** et **d’outils pratiques
 
 Développé par [**Enzo.ilz**](https://github.com/Enzo.ilz)
 N’hésite pas à laisser une ⭐ si ce bot t’est utile !
-
-```
