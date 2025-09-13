@@ -59,18 +59,3 @@ Il fournit un ensemble de commandes de **modération** et **d’outils pratiques
 * `ping` → Vérifier la latence du bot
 * `serverinfo` → Infos sur le serveur
 * `userinfo [ID]` → Infos sur un utilisateur
-
-
-
-💡 À venir
-
-* Gestion avancée des warns
-* Logs de modération
-* Dashboard web de configuration
-
-
-
-👤 Auteur
-
-Développé par [**Enzo.ilz**](https://github.com/Enzo.ilz)
-N’hésite pas à laisser une ⭐ si ce bot t’est utile !
