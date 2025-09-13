@@ -3,7 +3,7 @@
 Un bot Discord simple et efficace, développé en **JavaScript** avec [discord.js](https://discord.js.org).  
 Il fournit un ensemble de commandes de **modération** et **d’outils pratiques**, facile à installer et à personnaliser.
 
----
+
 
 ## 🚀 Installation & Lancement
 
@@ -34,15 +34,13 @@ Il fournit un ensemble de commandes de **modération** et **d’outils pratiques
    npm start
    ```
 
----
+🛠️ Commandes Disponibles
 
-## 🛠️ Commandes Disponibles
-
-### 🔹 Test
+🔹 Test
 
 * `say` → Le bot répète ton message
 
-### 🔹 Modération
+🔹 Modération
 
 * `ban [ID]` → Bannir un utilisateur
 * `clear [nombre]` → Supprimer un nombre de messages
@@ -52,7 +50,7 @@ Il fournit un ensemble de commandes de **modération** et **d’outils pratiques
 * `unban [ID]` → Débannir un utilisateur
 * `warn [ID] [raison]` → Avertir un utilisateur
 
-### 🔹 Utilitaires
+🔹 Utilitaires
 
 * `avatar [ID]` → Afficher l’avatar d’un utilisateur
 * `botinfo` → Infos sur le bot
@@ -62,17 +60,17 @@ Il fournit un ensemble de commandes de **modération** et **d’outils pratiques
 * `serverinfo` → Infos sur le serveur
 * `userinfo [ID]` → Infos sur un utilisateur
 
----
 
-## 💡 À venir
+
+💡 À venir
 
 * Gestion avancée des warns
 * Logs de modération
 * Dashboard web de configuration
 
----
 
-## 👤 Auteur
+
+👤 Auteur
 
 Développé par [**Enzo.ilz**](https://github.com/Enzo.ilz)
 N’hésite pas à laisser une ⭐ si ce bot t’est utile !
